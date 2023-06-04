@@ -4,6 +4,7 @@
   "version": "0.0.1",
   "main": "dist/@mth/use-state-with-callback-cjs.js",
   "module": "dist/@mth/use-state-with-callback-es.js",
+  "browser": "dist/@mth/use-state-with-callback-umd.js",
   "types": "dist/index.d.ts",
   "files": [
     "dist"
