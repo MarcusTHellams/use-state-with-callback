@@ -1,7 +1,7 @@
 {
   "name": "@mhellams/use-state-with-callback",
   "private": false,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist/@mhellams/use-state-with-callback-cjs.js",
   "module": "dist/@mhellams/use-state-with-callback-es.js",
   "browser": "dist/@mhellams/use-state-with-callback-umd.js",
